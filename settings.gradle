@@ -1,0 +1,1 @@
+include ':app', ':manifestation-annotations', ':manifestation-compiler'
